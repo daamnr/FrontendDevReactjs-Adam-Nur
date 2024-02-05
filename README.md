@@ -10,15 +10,11 @@ This project is created for intership test in Sekawan Media as a Frontend Develo
     <img src="https://github.com/daamnr/FrontendDevReactjs-Adam-Nur/blob/main/src/assets/best-rating.png?raw=true" width="400">
 </p>
 <p align="center">
-    Home - Open Now <br>
-    <img src="https://github.com/daamnr/FrontendDevReactjs-Adam-Nur/blob/main/src/assets/open-now.png?raw=true" width="400">
-</p>
-<p align="center">
     Restaurant Detail <br>
     <img src="https://github.com/daamnr/FrontendDevReactjs-Adam-Nur/blob/main/src/assets/restaurant-details.png?raw=true" width="400">
 </p>
 
-## 🎉 Features
+## Features
 
 - **React** - A JavaScript library for building user interfaces.
 - **Vite** - A fast, opinionated frontend build tool.
